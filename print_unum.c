@@ -33,4 +33,3 @@ int print_unsigned(va_list types, char buffer[],
 
 	return (write_unsgnd(0, i, buffer, flags, width, precision, size));
 }
-
